@@ -1,5 +1,7 @@
 markdown: kramdown
 theme: minima
+minima:
+  skin: dark
   author:
     name: Kate Meuse
     email: "kmm522@cornell.edu"
