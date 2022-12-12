@@ -1,5 +1,7 @@
 markdown: kramdown
 theme: minima
+header_pages:
+  - sumnat.md
 minima:
   skin: dark
   author:
